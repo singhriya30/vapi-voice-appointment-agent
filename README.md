@@ -1,4 +1,4 @@
-🏥 Dubai Hospital Voice Appointment Agent
+🏥 Hospital Voice Appointment Agent
 An AI-powered voice assistant system that allows users to schedule, cancel, and view hospital appointments using voice interactions via Vapi.
 
 This project integrates:
